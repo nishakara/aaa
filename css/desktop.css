@@ -1,0 +1,35 @@
+#header {
+        width : 98%;
+        height : 80px;
+        background-color : rgb(243, 11, 65);
+        margin : 0 auto;
+        position: relative;
+
+}
+
+#logo {
+    position: absolute;
+    bottom :  10px;
+    left : 10px;
+}
+
+#2nd {
+    background-color : blue
+}
+
+
+#2nd_1 {
+    background-color: rgb(30, 206, 23)
+}
+
+#2nd_2{
+    background-color: rgb(241, 139, 6)
+}
+
+#2nd_3 {
+    background-color: rgb(19, 11, 1)
+}
+
+#2nd_4{
+    background-color: rgb(245, 221, 88)
+}
